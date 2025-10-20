@@ -1,5 +1,8 @@
 # Prueba_bimestral_movil_gestor_Gastos
 
+Nombre: Ivan Andres Castillo Caiza
+
+
 ## 📝 Descripción
 
 Esta app permite:
@@ -14,4 +17,4 @@ El objetivo es tener un **currículum digital** accesible desde cualquier celula
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/Ivan-Castill/Curiculum_AppMovil.git
+git clone https://github.com/Ivan-Castill/Prueba_bimestral_movil_gestor_Gastos.git
