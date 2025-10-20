@@ -1,7 +1,0 @@
-{
-  "name": "Gastos_Registros",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
